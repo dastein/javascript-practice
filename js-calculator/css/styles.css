@@ -1,0 +1,43 @@
+.btn-group input {
+    padding: 10px;
+    width: 80px;
+    height: 78px;
+    font-size: 46px;
+    font-weight: 700;
+}
+
+.btn-group {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+#textbox {
+    text-align: right;
+    font-size: 28px;
+    width: 324px;
+    margin-bottom: 12px;
+    padding: 4px;
+}
+
+#textbox-container {
+    text-align: center;
+}
+
+#equals {
+    background-color: #006dcc;
+    color: white;
+}
+
+#controls {
+    text-align: center;
+}
+
+#clear {
+    font-size: 30px;
+    font-weight: 700;
+    margin-top: 12px;
+    padding: 10px;
+}
